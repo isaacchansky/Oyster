@@ -1,0 +1,53 @@
+﻿Youth Employment
+
+
+Section 1: Grade[a]
+
+
+Current Status: 30%
+Goal: 60%
+Symbolized based on how much on track with 5-year timeline.
+
+
+Use meter image here:   
+
+
+Section 2: Trend
+Graph showing the status over the time of the project towards the goal
+p 
+Section 3: Comparison
+Bar graph or map showing comparison to this goal to other Boston Neighborhoods[b]
+
+
+Section 4: Actions & Interventions
+
+
+* Create support network for youth
+* Identify and support youth at risk
+* Increase funding for youth jobs via advocacy and “impact investing” sources
+* Training for skills and job readiness
+* Career counseling/job placement
+* Business people meet youth before hiring
+* Create support network for businesses
+* Identify “youth ready” employers
+* Create list of entry level jobs available
+* Strengthen community-school linkages
+
+
+Section 5: Sector Lead
+
+
+  
+
+
+
+YouthHub is a collaborative, neighborhood-based initiative working to dramatically improve youth outcomes, particularly related to career-readiness, in Boston neighborhoods. YouthHub applies a measurement-based and innovation-driven approach to improve youth population outcomes in targeted neighborhoods. By setting goals and measuring progress, leveraging community assets, and identifying and applying innovative solutions, YouthHub builds local capacity for youth and their communities to take the lead in achieving continuous improvement in youth outcomes that matter most. Visit their website: http://www.youthhubboston.org/ 
+
+
+Section 6: Engagement
+Quiz on a simple question as part of the Survey Analytics ex: Do you currently have a job? (Yes, No)
+
+
+See Pie Chart on Employment Experience tab in http://www.surveyanalytics.com//a/ShowGraphReport/34990-692519 
+[a]top right hand side
+[b]This will be close to impossible for data that is not standardized (ex: survey data from the TNT app)
