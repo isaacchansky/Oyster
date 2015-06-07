@@ -13,18 +13,18 @@ var baseTilesURL = "http://{s}.tiles.mapbox.com/v3/codeforamerica.ijj7831e/{z}/{
 var mapGeography = {
         minZoom: 10,
         maxZoom: 17,
-        defaultZoom: 11,
-        center: [38.03,-84.475],
+        defaultZoom: 14,
+        center: [42.2882344, -71.0707474],
         baseTileVisible: 15
     };
 
 // Neighborhoods name in your TopoJSON file. This is usually the name of the shapefile
 // or geojson file you converted from.
-var neighborhoods = "precincts";
+var neighborhoods = "new_tract1005_wrs";
 
 // If you have an additional data layer in your TopoJSON file, name it here.
 // Otherwise comment it out.
-var overlay = "districts";
+// var overlay = "districts";
 
 // Number of color breaks/quantiles in the map and bar chart.
 // Note the rule is 5 to 7 color breaks on a choropleth map. Don't be

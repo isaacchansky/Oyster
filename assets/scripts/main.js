@@ -257,6 +257,7 @@ globals.processMetric = function(msg, data) {
 
     // clear metric data
     metricData.length = 0;
+    debugger;
 
     var keys = Object.keys(data.metricdata[0]);
     for (var i = 1; i < keys.length; i++) {
